@@ -1,0 +1,29 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+	background-image:url("https://img.freepik.com/free-vector/abstract-background_53876-43362.jpg?size=626&ext=jpg") ;
+	background-position: center;
+	background-size: cover;
+    
+}
+
+#myCanvas{
+border-width: 50px;
+background-color: turquoise;
+border-style:ridge;
+}
+#Fun_Fact{
+    align-content: flex-start;
+	text-align:center;
+    height: 150px;
+    width: 200px;
+    font-family: Futura;
+    color:white;
+    background-color: indigo;
+	border: ridge;
+	border-radius: 1cm;
+}
